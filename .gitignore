@@ -3,5 +3,7 @@
 .project
 .settings/
 bin/
-src/com/javaPackage/*.java
+src/com/
 
+# Track one the below files
+!src/university

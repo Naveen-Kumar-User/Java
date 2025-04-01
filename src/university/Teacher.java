@@ -1,4 +1,4 @@
-package com.university.salaryCalculator;
+package university;
 
 class Teacher extends Faculty {
 	private String qualification;
