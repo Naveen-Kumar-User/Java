@@ -1,0 +1,6 @@
+# Ignore everything
+*
+
+# Track only below files
+!.gitignore
+!\src\com\university\salaryCalculator
