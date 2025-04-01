@@ -1,6 +1,7 @@
-# Ignore everything
-*
+# Ignore these files
+.classpath
+.project
+.settings/
+bin/
+src/com/javaPackage/*.java
 
-# Track only below files
-!.gitignore
-!\src\com\university\salaryCalculator
